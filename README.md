@@ -6,7 +6,7 @@ This Project is demonstration of SOLID principles
 3. Liskov Substitution Principle:
     Child must be substituted of parent
 4. Interface Segregation Principle:
-    Add specific method signature in interface< 
+    Add specific method signature in interface, 
     Similar to Single Repository Principle
 5. Dependency Inversion Principle:
     Can be achieved using Interface/Abstraction
